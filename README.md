@@ -1,6 +1,7 @@
 # Multi-URL Chat Assistant
 
 A Streamlit web application that enables users to chat with content from multiple web links using Langchain, FAISS, and Hugging Face API integration.
+
 ![image](https://github.com/user-attachments/assets/26977697-0231-4614-99b7-44137377fe02)
 
 ![image](https://github.com/user-attachments/assets/5cfbb381-a2e8-4c4a-925d-c98d4e8cbea2)
