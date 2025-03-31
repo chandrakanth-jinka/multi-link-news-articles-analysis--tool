@@ -40,8 +40,8 @@ from langchain.chains import RetrievalQAWithSourcesChain
 
 # Configure page
 st.set_page_config(
-    page_title="RockyBot: News Research Tool",
-    page_icon="📈",
+    page_title="Multi Link Bot: News Research Tool",
+    page_icon="🔗",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -296,7 +296,7 @@ def export_chat_history():
     return buffer, filename
 
 # UI Components
-st.title("📈 RockyBot: News Research Tool")
+st.title("🔗 Multi Link Bot: News Research Tool")
 st.markdown("Ask questions about content from multiple web links")
 
 # URL input section
